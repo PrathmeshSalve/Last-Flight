@@ -1,6 +1,7 @@
-# Last Flight – Blueprint-Based Game Prototype (In Development)
+# Last Flight – Blueprint-Based Game
 
-A simple game prototype developed entirely using Unreal Engine Blueprints. Currently under construction, focusing on gameplay mechanics and level design.
+Last Flight – Developed a Blueprint-based game in Unreal Engine with enemy attack mechanics, reward collection system, and dynamic player interactions.
+
 
 ## Development Updates
 
